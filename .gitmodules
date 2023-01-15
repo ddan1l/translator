@@ -6,3 +6,7 @@
 	path = services/auth
 	url = git@github.com:ddan1l/translator-auth-service.git
 	branch = main
+[submodule "services/file"]
+	path = services/file
+	url = git@github.com:ddan1l/translator-file-service.git
+	branch = main
